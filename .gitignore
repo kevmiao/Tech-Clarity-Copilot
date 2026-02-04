@@ -1,0 +1,5 @@
+tech_clarity_copilot_demo.mov
+.DS_Store
+.env
+.env.*
+!.env.example
